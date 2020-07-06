@@ -114,7 +114,7 @@ Note that even though we are in the `init` function, we are using `setState` to 
 
 This concludes the development part of this hands-on. We've come a long way, from an initial "Hello, World"-derivative to a full video organizer.
 
-The full source code for the final application can be found here.
+The full source code for the final application can be found [here](https://github.com/kotlin-hands-on/web-app-react-kotlin-js-gradle).
 
 Stick around if you'd like to find out how we can bundle our application for production use, and how to get your app into the hands of real people by publishing it to the cloud!
 
