@@ -8,7 +8,6 @@ Another element that lends itself to becoming a self-contained unit is our video
 
 ```kotlin
 import kotlinx.css.*
-import kotlinx.html.js.onClickFunction
 import react.*
 import react.dom.*
 import styled.*
